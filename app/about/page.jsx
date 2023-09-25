@@ -6,7 +6,7 @@ const About = () => {
   };
   return (
     <section>
-      <div onClick={handleClick}>Welcome</div>
+      <div onClick={handleClick}>Welcomeee</div>
     </section>
   );
 };
